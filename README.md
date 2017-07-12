@@ -1,4 +1,5 @@
-# Simple Python Flask Dockerized Application#
+# FAIR DATool for data assestment
+Application implemented with Flask framework 
 
 Build the image using the following command
 
