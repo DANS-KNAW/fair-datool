@@ -1,0 +1,13 @@
+I0,I1a,I1b,I2a,I2b,I3a,I3b,I4a,I4b,I5a,I5b,I
+Yes,,Yes,,,,,,,,,1
+Yes,,No,Most,,,,,,,,1.5
+Yes,,No,Half,,,,,,,,2
+Yes,,No,Few,,,,,,,,2.5
+Yes,,No,None,,,,,No,,,3
+Yes,,No ,None,,,,,Yes,No,,4
+Yes,,No,None,,,,,Yes,Yes,,5
+No,Yes,,,,,,,,,,1
+No,No,,,,No,,,,,,2
+No,No,,,,Yes,,,No,,,3
+No,No,,,,Yes,,,Yes,Yes,,5
+No,No,,,,Yes,,,Yes,No,,4

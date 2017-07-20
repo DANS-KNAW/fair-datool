@@ -1,0 +1,6 @@
+A1a,A1b,A2a,A2b,A3a,A3b,A4a,A4b,A5a,A5b,,A
+No,No,,,,,,,,,,1
+No,Yes,,,,,,,,,,2
+Yes,,,,No,,,,,,,5
+Yes,,,,Yes,,No,,,,,3
+Yes,,,,Yes,,Yes,,,,,4
