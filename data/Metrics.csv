@@ -1,0 +1,27 @@
+F1a,F1b,F2a,F2b,F3a,F3b,F3c,F4a,F4b,F5a,F5b,F
+No,,,,,,No,,,,,1
+No,,,,,,Yes,,,,,3
+Yes,,,,,No,,,,,,2
+Yes,,,,,Yes,,,,Yes,,5
+Yes,,,,,Yes,,,,No,,4
+,,,,,,,,,,,
+A1a,A1b,A2a,A2b,A3a,A3b,A4a,A4b,A5a,A5b,,A
+No,No,,,,,,,,,,1
+No,Yes,,,,,,,,,,2
+Yes,,,,No,,,,,,,5
+Yes,,,,Yes,,No,,,,,3
+Yes,,,,Yes,,Yes,,,,,4
+,,,,,,,,,,,
+I0,I1a,I1b,I2a,I2b,I3a,I3b,I4a,I4b,I5a,I5b,I
+Yes,,Yes,,,,,,,,,1
+Yes,,No,Most,,,,,,,,1.5
+Yes,,No,Half,,,,,,,,2
+Yes,,No,Few,,,,,,,,2.5
+Yes,,No,None,,,,,No,,,3
+Yes,,No ,None,,,,,Yes,No,,4
+Yes,,No,None,,,,,Yes,Yes,,5
+No,Yes,,,,,,,,,,1
+No,No,,,,No,,,,,,2
+No,No,,,,Yes,,,No,,,3
+No,No,,,,Yes,,,Yes,Yes,,5
+No,No,,,,Yes,,,Yes,No,,4
