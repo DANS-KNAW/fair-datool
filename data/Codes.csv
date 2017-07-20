@@ -1,18 +1,18 @@
-Does the dataset have a persistent identifier (PID)?,F1a,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.c4z9w8rmxvx0
-Is there sufficient metadata/documentation available?,F3b,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.7no1w0unnih0
-Is there sufficient metadata/documentation available?,F3c,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.7no1w0unnih0
+Does the dataset have a persistent identifier (PID)?,F1a,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.c4z9w8rmxvx0
+Is there sufficient metadata available?,F3b,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.7no1w0unnih0
+Is there sufficient metadata available?,F3c,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.7no1w0unnih0
 Is there extensive metadata and rich additional documentation available?,F5a,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.hcnvgj7avarz
-Does the dataset have a user license? ,A1a,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.ftmbhce65x38
+Does the dataset have a user license? ,A1a,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.ftmbhce65x38
 Are the metadata accessible?,A1b,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.9th951m8bcf
 Does the user license have any user restrictions at all for accessing the data?,A3a,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.uuws6qutlh87
-Is the dataset available for public access? (i.e. the restriction is only registration on a website before the person has access the data),A4a,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.kqqppwjxmv3d
+Is the dataset available for public access? (i.e. the restriction is only registration on a website before the person has access the data),A4a,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.kqqppwjxmv3d
 Is the dataset multi-file?,I0,
 Is the data file in a proprietary format?,I1a,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.wk9n70erqcvl
 Are all of the data files in a proprietary format?,I1b,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.wk9n70erqcvl
-Is the format therefore consistent with a 'preferred' archival format?,I3a,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.qk2a8lqq28cw
+Is the format therefore consistent with a 'preferred' archival format?,I3a,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.qk2a8lqq28cw
 Please indicate which of these statements is the most applicable to the dataset:,I2a,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.uu5hfdrd5y2i
 "Is a standardised vocabulary, coding scheme or markup/tagging schema used in order to harmonise the information in the dataset?",I4b,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.rjw3jnmkqwwk
-Is the data represented as linked data (e.g. in RDF format) so that it can be linked to other data?,I5a,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.i1u3j5bxihul
+Is the data represented as linked data (e.g. in RDF format), so that it can be linked to other data?,I5a,https://docs.google.com/document/d/1bRQDN_VFSPSMnsADLyzky-sbd6ZPArsHOcYhERdyrL8/edit#bookmark=id.i1u3j5bxihul
 "In the box below you can record your overall views and opinions about the dataset as if you were reviewing it like you would a product review (i.e. on Amazon when you see a 5 star rating followed by a written review also). This way
  you can describe any additional comments or feelings you had about the dataset which haven't been highlighted by the questions you have already answered.This question is optional
  but you should be aware that what you write here may be published alongside to the five stars review on the FAIR data assessment tool database
