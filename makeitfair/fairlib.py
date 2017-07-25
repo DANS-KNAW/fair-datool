@@ -106,8 +106,3 @@ def fair_ranking(doi):
     data['R'] = np.array([data['F'], data['A'], data['I']]).mean()
     return data
 
-#doi = "http://dx.doi.org/10.17632/crnmszmb8h.1"
-#doi = "http://dx.doi.org/10.17632/yjrpmr5mwn.1"
-#doi = "http://dx.doi.org/10.17632/nhtjgdkft4.1"
-#data = fair_ranking(doi)
-#print data
